@@ -1,10 +1,16 @@
-  table, th, td {
-    border: 1px solid black;
-  }
+body {
+	margin: 0px;
+	background: bisque;
+	text-align: center;
+}
 
-  h1 {
-    color: blue;
-  }
+table, th, td {
+  border: 1px solid black;
+}
+
+h1 {
+  color: blue;
+}
 
 .mypic {
   height: 300;
